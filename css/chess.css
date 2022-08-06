@@ -1,0 +1,197 @@
+.green-short {
+    width: 20px;
+    height: 20px;
+    background: lightgreen;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+}
+
+.green-long {
+    width: 100px;
+    height: 20px;
+    background: lightgreen;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+}
+
+.green-diogonal {
+    width: 20px;
+    height: 100px;
+    background: lightgreen;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+}
+
+.white {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+}
+
+.black {
+    width: 100px;
+    height: 100px;
+    background: black;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+}
+
+.image {
+    margin: 0px;
+    padding: 0px;
+}
+
+.ladya-black {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+    background: url('../photo/ladya-black.png') no-repeat;
+    background-position: center;
+}
+
+.horse-white {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+    background: black url('../photo/horse-white.png') no-repeat;
+    background-position: center;
+}
+
+.slon-black {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+    background: url('../photo/slon-black.png') no-repeat;
+    background-position: center;
+}
+
+.ferz-white {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+    background: black url('../photo/ferz-white.png') no-repeat;
+    background-position: center;
+}
+
+.ferz-black {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+    background: url('../photo/ferz-black.png') no-repeat;
+    background-position: center;
+}
+
+.king-black {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+    background: url('../photo/king-black.png') no-repeat;
+    background-position: center;
+}
+
+.king-white {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+    background: black url('../photo/king-white.png') no-repeat;
+    background-position: center;
+}
+
+.slon-white {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+    background: black url('../photo/slon-white.png') no-repeat;
+    background-position: center;
+}
+
+
+.horse-black {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+    background: url('../photo/horse-black.png') no-repeat;
+    background-position: center;
+}
+
+
+.ladya-white {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+    background: black url('../photo/ladya-white.png') no-repeat;
+    background-position: center;
+}
+
+.peshka-white {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+    background: black url('../photo/peshka-white.png') no-repeat;
+    background-position: center;
+}
+
+.peshka-black {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border: solid gray 2px;
+    display: inline-block;
+    margin: -2px;
+    text-align: center;
+    background: url('../photo/peshka-black.png') no-repeat;
+    background-position: center;
+}
